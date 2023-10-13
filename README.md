@@ -8,5 +8,5 @@ How to use:
   - run code
 
 The code will tell you:
-  -the tilt angles of the DMD
-  -information to build the setup correctly (e.g. post heights, distance between posts, ...)
+  - the tilt angles of the DMD
+  - information to build the setup correctly (e.g. post heights, distance between posts, ...)
